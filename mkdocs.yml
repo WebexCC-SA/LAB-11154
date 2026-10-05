@@ -87,6 +87,19 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Welcome: welcome.md
+  - "About this Lab": about.md
+  - "Getting Started / Accessing the lab": getting-started.md
+  - "Location & Calling Setup":
+      - "Location & Calling Setup": location-calling.md
+      - "Organizational / Service Settings": organizational-service-settings.md
+      - "Location Set up": location-setup.md
+      - "Announcements": announcements.md
+  - "Configure Users, Devices and Workspaces":
+      - "Configure Users, Devices and Workspaces": users-devices-workspaces.md
+      - "Configure User Accounts": configure-user-accounts.md
+      - "Setup and assign a device to a workspace": workspace-device.md
+      - "Make Test Calls (Physical Phone, Webex app, Mobile)": test-calls.md
+      - "Join a MS Teams Meeting from your video device": ms-teams-meeting.md
   - Lab:
       - Overview: overview.md
       - Lab 1 - Getting Started: lab1_getting_started.md
