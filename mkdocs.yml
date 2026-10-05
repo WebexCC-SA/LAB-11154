@@ -99,6 +99,24 @@ nav:
       - "Setup and assign a device to a workspace": workspace-device.md
       - "Make Test Calls (Physical Phone, Webex app, Mobile)": test-calls.md
       - "Join a MS Teams Meeting from your video device": ms-teams-meeting.md
+  - "Webex Calling Features":
+      - "Webex Calling Features": calling-features.md
+      - "Auto Attendant": auto-attendant.md
+      - "Hunt Groups": hunt-groups.md
+      - "Call Queues": call-queues.md
+      - "Customer Assist Queues": customer-assist-queues.md
+      - "Push to Talk / Intercom": push-to-talk-intercom.md
+      - "Paging Groups": paging-groups.md
+      - "Virtual Lines": virtual-lines.md
+      - "Shared Lines": shared-lines.md
+      - "Call Recording": call-recording.md
+      - "PLAR /Ringdown": plar-ringdown.md
+      - "98XX Actions Buttons": 98xx-action-buttons.md
+      - "Hot Desking": hot-desking.md
+      - "End user Portal": end-user-portal.md
+      - "RBAC and Location Admins": rbac-location-admins.md
+      - "Analytics, Reporting and Troubleshooting": analytics-reporting-troubleshooting.md
+      - "Webex Calling Customer Assist Analytics and Reporting": customer-assist-analytics-reporting.md
 #  - Lab:
 #      - Overview: overview.md
 #      - Lab 1 - Getting Started: lab1_getting_started.md
