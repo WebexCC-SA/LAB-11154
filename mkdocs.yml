@@ -100,20 +100,20 @@ nav:
       - "Setup and assign a device to a workspace": workspace-device.md
       - "Make Test Calls (Physical Phone, Webex app, Mobile)": test-calls.md
       - "Join a MS Teams Meeting from your video device": ms-teams-meeting.md
-  - Lab:
-      - Overview: overview.md
-      - Lab 1 - Getting Started: lab1_getting_started.md
-      - Conclusion: conclusion.md
-  - Topologies: topologies.md
-  - How to use this guide:
-      - Setting up and using the tool:
-        - Initial Setup: howToUse/initialSetup.md
-        - Using the tool after the initial setup: howToUse/postInitial.md
-        - Publishing your changes: howToUse/syncChanges.md
-      - Useful Tools and Resources: howToUse/usefulTools.md
-      - Importing from Word (docx): howToUse/importingFromWord.md
-      - Styling and Advanced Features:
-        - Custom Features: howToUse/customFeatures.md
-        - Custom Admonitions: howToUse/admonition.md
-      - Looking for Inspiration: howToUse/previousEventLabs.md
-      - Before the Event: howToUse/beforeTheEvent.md
+#  - Lab:
+#      - Overview: overview.md
+#      - Lab 1 - Getting Started: lab1_getting_started.md
+#      - Conclusion: conclusion.md
+#  - Topologies: topologies.md
+#  - How to use this guide:
+#      - Setting up and using the tool:
+#        - Initial Setup: howToUse/initialSetup.md
+#        - Using the tool after the initial setup: howToUse/postInitial.md
+#        - Publishing your changes: howToUse/syncChanges.md
+#     - Useful Tools and Resources: howToUse/usefulTools.md
+#      - Importing from Word (docx): howToUse/importingFromWord.md
+#      - Styling and Advanced Features:
+#        - Custom Features: howToUse/customFeatures.md
+#        - Custom Admonitions: howToUse/admonition.md
+#      - Looking for Inspiration: howToUse/previousEventLabs.md
+#      - Before the Event: howToUse/beforeTheEvent.md
