@@ -1,4 +1,4 @@
-# Getting started / Accessing the Lab
+# Getting started / Accessing the Lab 
 
 1. Open a browser on your provided laptop and go to [http://cs.co/Wx1Fedramp](http://cs.co/Wx1Fedramp). From here you will get the credentials and information needed to log into control hub and the webex application.
 

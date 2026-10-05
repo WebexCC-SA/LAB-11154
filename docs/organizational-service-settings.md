@@ -2,7 +2,7 @@
 
 - Open Chrome on your Lab issued PC and browse to Collaboration Control Hub [https://admin-usgov.webex.com/](https://admin-usgov.webex.com/). From here log in as the admin user with the provided password. Collaboration Control Hub is the single pain of glass where you would administer and manage all things related to Webex Calling and devices.
 
-- Once you are logged in to the Control Hub, navigate to Organization Settings under the Management Menu. Feel free to dismiss the warnings at the top of the page by clicking the respective X.
+- Once you are logged in to the Control Hub, navigate to Organization Settings under the Management Menu. Feel free to dismiss the warnings at the top of the page by clicking the respective X. 
 
 ![image5.png](./assets/image5.png)
 
